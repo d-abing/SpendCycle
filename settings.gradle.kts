@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "SpendCycle"
 include(":app")
+include(":domain")
+include(":presentation")
+include(":data")
